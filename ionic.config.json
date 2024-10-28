@@ -1,0 +1,7 @@
+{
+  "name": "Uber_Duoc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
